@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Ashish-kumar6399.github.io/Todo/static/css/main.0742987f.css",
+    "main.js": "/Ashish-kumar6399.github.io/Todo/static/js/main.794376a1.js",
+    "index.html": "/Ashish-kumar6399.github.io/Todo/index.html",
+    "main.0742987f.css.map": "/Ashish-kumar6399.github.io/Todo/static/css/main.0742987f.css.map",
+    "main.794376a1.js.map": "/Ashish-kumar6399.github.io/Todo/static/js/main.794376a1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0742987f.css",
+    "static/js/main.794376a1.js"
+  ]
+}
